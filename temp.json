@@ -1,0 +1,53 @@
+{
+    "bot":{
+       "id":"62f4e6b870055f434dccf210!",
+       "name":"공부하자"
+    },
+    "intent":{
+       "id":"62f4f831fb4d7520b2bb98dd",
+       "name":"단순인사",
+       "extra":{
+          "reason":{
+             "code":1,
+             "message":"OK"
+          }
+       }
+    },
+    "action":{
+       "id":"62f4f748fb4d7520b2bb98d7",
+       "name":"단순 텍스트 응답",
+       "params":{
+          
+       },
+       "detailParams":{
+          
+       },
+       "clientExtra":{
+          
+       }
+    },
+    "userRequest":{
+       "block":{
+          "id":"62f4f831fb4d7520b2bb98dd",
+          "name":"단순인사"
+       },
+       "user":{
+          "id":"38bb57dbbd9c87831a4ea2d3048654693f21b38f544fe0029f4b38ab347bc44e08",
+          "type":"botUserKey",
+          "properties":{
+             "botUserKey":"38bb57dbbd9c87831a4ea2d3048654693f21b38f544fe0029f4b38ab347bc44e08",
+             "bot_user_key":"38bb57dbbd9c87831a4ea2d3048654693f21b38f544fe0029f4b38ab347bc44e08"
+          }
+       },
+       "utterance":"하이\n",
+       "params":{
+          "surface":"BuilderBotTest",
+          "ignoreMe":"true"
+       },
+       "lang":"kr",
+       "timezone":"Asia/Seoul"
+    },
+    "contexts":[
+       
+    ]
+ }
